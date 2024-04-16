@@ -21,14 +21,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 6.Apply new unknown values.
 
 ## Program:
+
 ```py
-```py
-'''
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: K KESAVA SAI 
 RegisterNumber: 212223230105 
-'''
 ```
+```py
 import pandas as pd 
 data = pd.read_csv('Employee.csv')
 data.head()
